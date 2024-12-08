@@ -18,3 +18,6 @@ Learning Git
 * Git Merge
     * Move to the master
     * git merge child-branch
+* Git Fetch/Pull
+    * git fetch
+    * git pull
