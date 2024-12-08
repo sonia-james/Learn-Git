@@ -1,4 +1,4 @@
-#**Hello Git**
+# Hello Git
 
 Learning Git
 * Create a new repository
