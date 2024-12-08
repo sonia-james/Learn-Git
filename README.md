@@ -1,3 +1,4 @@
+#Hello Git
 Learning Git
 * Create a new repository
     * Create a new directory and run : git init
